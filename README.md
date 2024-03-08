@@ -17,3 +17,7 @@ A large assignment of programming fundalmentals subject from HCMUT
 ## Contributed by
    https://www.facebook.com/profile.php?id=61554878583927
 
+## Warning:
+- FOR REFERENCE ONLY 
+- DO NOT REPRODUCE IN ANY FORM
+- USED LANGUAGE: [![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
